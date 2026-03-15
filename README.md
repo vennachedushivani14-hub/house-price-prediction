@@ -33,3 +33,7 @@ house-price-prediction
 
 ### Prediction Output
 ![Prediction Screenshot](projectss2.png)
+## Live Demo
+
+Streamlit App:  
+https://house-price-prediction-exnj2o4qhctfmxapsrzcje.streamlit.app/
