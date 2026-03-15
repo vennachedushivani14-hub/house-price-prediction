@@ -26,3 +26,10 @@ house-price-prediction
 ├── model.pkl
 ├── requirements.txt
 └── README.md
+## App Preview
+
+### Input Interface
+![App Screenshot](projectscreenshot.png)
+
+### Prediction Output
+![Prediction Screenshot](projectss2.png)
